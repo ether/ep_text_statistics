@@ -4,7 +4,7 @@
 Based on https://github.com/cgiffard/TextStatistics.js
 
 ## Installation
-Install using /admin/plugins or npm install ep_text_statistics
+Install using /admin/plugins or pnpm run plugins install ep_text_statistics
 
 ## Usage
 When you type a button in the editbar will show the reading ease of the pad
