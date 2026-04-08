@@ -1,4 +1,4 @@
-![Publish Status](https://github.com/ether/ep_text_statistics/workflows/Node.js%20Package/badge.svg) ![Backend Tests Status](https://github.com/ether/ep_text_statistics/workflows/Backend%20tests/badge.svg)
+![Publish Status](https://github.com/ether/ep_text_statistics/workflows/Node.js%20Package/badge.svg) [![Backend Tests Status](https://github.com/ether/ep_text_statistics/actions/workflows/test-and-release.yml/badge.svg)](https://github.com/ether/ep_text_statistics/actions/workflows/test-and-release.yml)
 
 # Text Statistics in Etherpad - Reading Ease
 Based on https://github.com/cgiffard/TextStatistics.js
